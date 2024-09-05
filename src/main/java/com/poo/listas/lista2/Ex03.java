@@ -1,4 +1,4 @@
-package com.poo.listas.pooentrega2;
+package com.poo.listas.lista2;
 import java.util.Scanner;
 public class Ex03 {
     public static void resolucao(){

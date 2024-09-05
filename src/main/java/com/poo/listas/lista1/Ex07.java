@@ -1,5 +1,4 @@
-package com.poo.listas.pooentrega1;
-
+package com.poo.listas.lista1;
 import java.util.Scanner;
 
 public class Ex07 {

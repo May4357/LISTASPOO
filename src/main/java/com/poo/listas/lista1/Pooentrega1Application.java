@@ -1,4 +1,4 @@
-package com.poo.listas.pooentrega1;
+package com.poo.listas.lista1;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
